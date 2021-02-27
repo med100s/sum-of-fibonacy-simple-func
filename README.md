@@ -1,5 +1,5 @@
 # sum-of-fibonacy-simple-func
-if you will enter a number it will returs array of fibonacy numbers which gives in summ nearest number for this number without one number mf
+if you will enter a number it will returns array of fibonaccy numbers. Which gives in summ nearest number for this number without one last fibonaccy number.  
 
 console.log(fibonacci(144)) return
 [
