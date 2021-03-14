@@ -22,3 +22,5 @@ console.log(fibonacci(14444)) return
    55,  89,  144,  233,  377,
   610, 987, 1597, 2584, 4181
 ]
+
+for one more number check addition
